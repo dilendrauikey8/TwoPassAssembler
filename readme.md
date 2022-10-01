@@ -14,7 +14,7 @@ c++ compiler should in installed.
          $ g++ index.cpp
      ```
 
-2. Run the executable file assembler.exe using the following command.
+2. Run the executable file a.out using the following command.
    ``` 
     $ ./a.out <INPUT_FILE> <OUTPUT_FILE> <LISTING_FILE> 
     $ ./a.out input.txt output.txt listing.txt    
